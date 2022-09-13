@@ -2,4 +2,4 @@
 This repositry is use to know how git and github works
 Repository/repo - Folder
 Commit - Save
-
+Switching - Changing branch 
