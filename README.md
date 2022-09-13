@@ -12,3 +12,5 @@ origin/main - it highlights this in command line to showcase files path in remot
 
 This is 3rd time changes in README.md file through browser
 >>>>>>> refs/remotes/origin/main
+
+This is the 4th changes done in local machine on top of the existing 3rd changes.
